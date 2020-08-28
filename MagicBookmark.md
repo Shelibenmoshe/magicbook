@@ -6,8 +6,8 @@
 ## introduction@fullscreen
 
 בפרויקט זה נכין  קוד לסמניית קסם שעוקבת אחרי הקריאה שלנו
-![למשל](book-mark-set_2.jpg)
-https://github.com/sheliben/magicbook/blob/3db596fcab284dd1e741be2509565d98b1bc1064/book-mark-set_2.jpg
+![למשל](/book-mark-set_2.jpg/)
+
 הנה סרטון gif קצר להנחיות בנייה
 ![הנחיות בנייה סמניית קסם](bookmark-gif.gif)
 
